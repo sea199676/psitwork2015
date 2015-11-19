@@ -1,0 +1,78 @@
+Bangkok	20,448	26,909	135,137
+Samut Prakan	14,297	15,745	67,390
+Nonthaburi	19,088	24,566	102,994
+Pathum Thani	17,239	19,282	139,691
+Phra Nakhon Si Ayutthaya	11,924	14,904	23,636
+Ang Thong	9,799	12,544	81,035
+Lop Buri	9,023	10,649	47,821
+Sing Buri	10,589	11,894	49,751
+Chai Nat	8,794	12,693	61,866
+Saraburi	9,987	12,319	61,918
+Chon Buri	12,353	13,807	66,669
+Rayong	10,587	14,739	61,997
+Chanthaburi	9,873	11,527	115,517
+Trat	7,673	7,426	23,342
+Chachoengsao	12,735	13,781	120,083
+Prachin Buri	9,696	10,477	33,628
+Nakhon Nayok	10,651	12,595	123,144
+Sa Kaeo	7,215	8,355	48,980
+Ratchaburi	11,682	15,174	59,401
+Kanchanaburi	8,683	11,680	84,269
+Suphan Buri	6,392	13,334	70,623
+Nakhon Pathom	15,348	18,297	115,912
+Samut Sakhon	11,537	13,775	64,086
+Samut Songkhram	11,640	13,072	45,602
+Phetchaburi	9,494	12,390	87,044
+Prachuap Khiri Khan	8,607	10,840	56,790
+Chiang Mai	7,477	9,243	52,547
+Lamphun	8,480	10,231	65,838
+Lampang	7,712	9,735	69,200
+Uttaradit	6,729	7,270	23,839
+Phrae	7,960	9,366	48,371
+Nan	6,699	7,334	52,457
+Phayao	6,136	5,928	39,296
+Chiang Rai	6,487	7,930	28,252
+Mae Hong Son	5,225	6,317	31,601
+Nakhon Sawan	7,723	7,602	66,422
+Uthai Thani	7,247	9,598	47,623
+Kamphaeng Phet	10,366	12,354	85,656
+Tak	7,805	9,674	55,696
+Sukhothai	5,892	7,156	43,584
+Phitsanulok	7,224	8,965	65,358
+Phichit	8,179	8,318	63,167
+Phetchabun	5,980	8,435	84,428
+Nakhon Ratchasima	6,524	8,415	50,384
+Buri Ram	6,784	8,137	72,402
+Surin	5,888	6,226	54,741
+Si Sa Ket	6,174	7,593	67,821
+Ubon Ratchathani	7,747	9,874	65,131
+Yasothon	5,916	4,826	17,745
+Chaiyaphum	5,940	7,683	42,285
+Amnat Charoen	6,363	7,711	53,567
+Bungkan	0	0	0
+Nong Bua Lam Phu	5,272	5,532	46,584
+Khon Kaen	7,322	9,757	64,250
+Udon Thani	5,169	6,841	34,073
+Loei	6,560	7,387	62,499
+Nong Khai	7,547	7,123	37,583
+Maha Sarakham	7,803	8,746	55,254
+Roi Et	6,462	7,207	43,830
+Kalasin	6,713	6,469	41,435
+Sakon Nakhon	6,019	7,751	44,517
+Nakhon Phanom	5,486	5,343	31,534
+Mukdahan	8,309	9,485	118,170
+Nakhon Si Thammarat	8,746	10,789	54,589
+Krabi	10,225	9,928	83,721
+Phangnga	8,573	10,217	28,375
+Phuket	18,054	20,702	40,676
+Surat Thani	9,909	10,800	57,404
+Ranong	9,350	9,410	49,894
+Chumphon	8,551	10,454	98,332
+Songkhla	9,761	13,505	36,969
+Satun	8,056	9,711	72,649
+Trang	9,888	12,782	51,369
+Phattalung	9,367	11,550	92,554
+Pattani	9,415	9,759	46,522
+Yala	8,623	9,932	59,177
+Narathiwat	6,325	7,802	15,087
+

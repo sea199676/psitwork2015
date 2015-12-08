@@ -1,6 +1,7 @@
 import csv
 import matplotlib.pyplot as ptl 
 def dot_graph():
+    """make a dot graph use data from text file"""
     years = int(input())
     name_file = "data%d.txt"%years
     file=open(name_file, 'rt')

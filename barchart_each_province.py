@@ -2,11 +2,12 @@ import csv
 import plotly.plotly as py
 import plotly.graph_objs as go
 py.sign_in('sea199676', 'vrmlh14j43')
-years = 2556
+years = int(input())
 name_file = "data%d.txt"%years
 file=open(name_file, 'rt')
 data=csv.reader(file)
 table=[row for row in data]
+print(table[:])
 province = [name for [name, outcome, income, debt] in table]
 outcome_money = [int(outcome) for [name, outcome, income, debt] in table]
 income_money = [int(income) for [name, outcome, income, debt] in table]
@@ -17,4 +18,4 @@ debt = go.Bar(x=province, y=debt_money, name="Debt")
 data = [outcome, income, debt]
 layout = go.Layout(barmode='group')
 fig = go.Figure(data=data, layout=layout)
-plot_url = py.plot(fig, filename='barchart2556')
+plot_url = py.plot(fig, filename='grouped-bar')

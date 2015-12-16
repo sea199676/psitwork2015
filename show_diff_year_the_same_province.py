@@ -14,8 +14,9 @@ def dot_graph():
         table=[[i] + row for row in data]
         all_year += table
     print(all_year[:])
+    name = input()
     for num in all_year:
-        if num[1] == "PhraNakhonSiAyutthaya":
+        if num[1] == str(name):
             years_data.append(num[0])
             outcome_money.append(num[2])
             income_money.append(num[3])
@@ -24,7 +25,7 @@ def dot_graph():
     p2 = ptl.plot(years_data, income_money, 'bs-')
     p3 = ptl.plot(years_data, debt_money, 'gs-')
     ptl.legend((p1[0], p2[0], p3[0]), ("outcome", "income", "Debt"))
-    ptl.title("Different of Outcome, Income and Debt in PhraNakhonSiAyutthaya")
+    ptl.title("Different of Outcome, Income and Debt in " + name)
     ptl.xlabel("Province")
     ptl.ylabel("Amout of money in Baht")
     ptl.show()
